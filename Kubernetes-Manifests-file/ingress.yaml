@@ -11,7 +11,7 @@ metadata:
 spec:
   ingressClassName: alb
   rules:
-    - host: devsecopswithanshu.com
+    - host: 3tier.devsecopswithanshu.com
       http:
         paths:
           - path: /api

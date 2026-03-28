@@ -58,3 +58,15 @@ We welcome contributions! If you have ideas for enhancements or find any issues,
 This project is licensed under the [MIT License](LICENSE).
 
 Happy Coding! 🚀
+
+## Overview
+
+This repository contains project code and supporting assets. It is maintained actively with periodic updates.
+
+## Repository Structure
+
+Key source code, configuration, and documentation are organized by folders at the repository root.
+
+## Contribution Guidelines
+
+Please open an issue for major changes and submit focused pull requests with clear descriptions.
